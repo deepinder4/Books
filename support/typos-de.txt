@@ -1,4 +1,4 @@
-# This file contains a number of common German typos:this is my change from D-Books branch
+# This file contains a number of common German typos:i am changing this line from A-Books branch
 andriod->android
 
 # The remainder of this file contains misspellings from
